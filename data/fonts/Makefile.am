@@ -24,8 +24,7 @@ dist_install_DATA = \
         goodtime.ttf \
         nmsbd2.ttf \
         tiny.ttf \
-        titles.ttf \
-        valis_enigma.ttf
+        titles.ttf         
          
 
 install-data-hook:
