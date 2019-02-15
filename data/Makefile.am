@@ -1,4 +1,4 @@
-SUBDIRS = countries fonts extensions keymaps rc_models
+SUBDIRS = countries fonts extensions keymaps rc_models hw_info
 
 dist_pkgdata_DATA = \
 	encoding.conf \
